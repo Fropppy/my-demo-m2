@@ -33,6 +33,7 @@ atlassian*
 /.php_cs.cache
 /grunt-config.json
 /dev/tools/grunt/configs/local-themes.js
+/vendor
 
 /pub/media/*.*
 !/pub/media/.htaccess
@@ -67,3 +68,5 @@ atlassian*
 /generated/*
 !/generated/.htaccess
 .DS_Store
+
+/vendor
